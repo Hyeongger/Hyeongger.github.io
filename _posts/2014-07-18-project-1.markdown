@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-07-18
+date: 2022-04-18
 img: cabin.png
 alt: image-alt
-project-date: April 2023
+project-date: April 2022
 client: AJOU UNIV
 category: PROJECT MANAGEMENT
 description: 안녕하세요, 정상운영중입니다.
