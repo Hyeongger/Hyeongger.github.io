@@ -56,7 +56,7 @@ address:
   - line: SUWON
 
 # Credits content
-Contacts: '연락처: 010-5719-7172 or <a href="dlgudrl1203@gmail.com">이메일</a>.'
+Contacts: '연락처: 010-5719-7172</a>.'
 
 # Build settings
 markdown: kramdown
