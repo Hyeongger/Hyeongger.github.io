@@ -34,29 +34,22 @@ color:
 footer:
   copyright: HYEONGGER
   location: Location
-  social: Around the Web
+  social: SNS
   credits: Contacts
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://www.instagram.com/hyeongger/
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: https://www.instagram.com/hyeongger/
-  - title: bitbucket
-    url: https://www.instagram.com/hyeongger/
-  - title: github
+  - title: instagram
     url: https://www.instagram.com/hyeongger/
     
 # Postal address (add as many lines as necessary)
 address:
-  - line: Republic Of Korea
+  - line: Republic Of Korea,
   - line: SUWON
 
 # Credits content
-Contacts: '연락처: 010-5719-7172</a>.'
+Contacts:
+  - line: 연락처: 010-5719-7172
 
 # Build settings
 markdown: kramdown
